@@ -17,7 +17,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Short",
-			"displayName": "",
+			"displayName": "Short Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Sabre",
@@ -45,7 +45,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Unlock15",
-			"displayName": "New Game",
+			"displayName": "New Game Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Heat",
@@ -66,7 +66,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Enchanted",
-			"displayName": "Enchanted",
+			"displayName": "Enchanted Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Kilea",
@@ -87,7 +87,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Risky",
-			"displayName": "Risky",
+			"displayName": "Risky Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Altipia",
@@ -109,7 +109,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "SuperNatural",
-			"displayName": "",
+			"displayName": "Supernatural Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"NovaCity",
@@ -130,7 +130,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Extraordinary",
-			"displayName": "Extraordinary",
+			"displayName": "Extraordinary Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Restart",
@@ -155,7 +155,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Game",
-			"displayName": "Game",
+			"displayName": "Game Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"TicketToRide",
@@ -177,7 +177,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Legendary",
-			"displayName": "Legendary",
+			"displayName": "Legendary Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"ActionStory",
@@ -201,7 +201,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Mythic",
-			"displayName": "Mythic",
+			"displayName": "Mythic Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Grece",
@@ -225,7 +225,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Epic",
-			"displayName": "Epic",
+			"displayName": "Epic Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Cinema",
@@ -250,7 +250,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Timeless",
-			"displayName": "Timeless",
+			"displayName": "Timeless Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Circus",
@@ -276,7 +276,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Heroic",
-			"displayName": "Heroic",
+			"displayName": "Heroic Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"InsertCoin",
@@ -301,7 +301,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Exotic",
-			"displayName": "Exotic",
+			"displayName": "Exotic Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"CroqueMitaine",
@@ -372,7 +372,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Fantastic",
-			"displayName": "Fantastic",
+			"displayName": "Fantastic Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Circus",
@@ -424,7 +424,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "EscapeGeeks",
-			"displayName": "",
+			"displayName": "EscapeGeeks Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"TourEiffel"
@@ -445,7 +445,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "Cannes_2020",
-			"displayName": "Le Masque de fer",
+			"displayName": "The Iron Mask",
 			"localizedBanner": "True",
 			"adventures": [
 				"MasqueDeFer"
@@ -459,7 +459,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "LastmanBox",
-			"displayName": "Lastman",
+			"displayName": "Lastman Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Lastman"
@@ -476,7 +476,7 @@
 			],
 			"soonLanguages": [],
 			"ID": "StarWars",
-			"displayName": "Star Wars",
+			"displayName": "Star Wars Adventures",
 			"localizedBanner": "False",
 			"adventures": [
 				"Hoth",

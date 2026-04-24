@@ -470,9 +470,7 @@
 			"hideIfNotLocalized": "True",
 			"languages": [
 				"English",
-				"French",
-				"Ukrainian",
-				"Russian"
+				"French"
 			],
 			"soonLanguages": [],
 			"ID": "StarWars",

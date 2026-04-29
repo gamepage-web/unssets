@@ -1,0 +1,82 @@
+{
+    "Enchanted": {
+        "front": "Enchanted_f.jpg",
+        "back": "Enchanted_b.jpg",
+        "iso": "Enchanted.png"
+    },
+    "Epic": {
+        "front": "Epic_f.jpg",
+        "back": "Epic_b.jpg",
+        "iso": "Epic.png"
+    },
+    "Escape": {
+        "front": "Escape_f.jpg",
+        "back": "Escape_b.jpg",
+        "iso": "Escape.png"
+    },
+    "Exotic": {
+        "front": "Exotic_f.jpg",
+        "back": "Exotic_b.jpg",
+        "iso": "Exotic.png"
+    },
+    "Extraordinary": {
+        "front": "Extraordinary_f.jpg",
+        "back": "Extraordinary_b.jpg",
+        "iso": "Extraordinary.png"
+    },
+    "Game": {
+        "front": "Game_f.jpg",
+        "back": "Game_b.jpg",
+        "iso": "Game.png"
+    },
+    "Heroic": {
+        "front": "Heroic_f.jpg",
+        "back": "Heroic_b.jpg",
+        "iso": "Heroic.png"
+    },
+    "Legendary": {
+        "front": "Legendary_f.jpg",
+        "back": "Legendary_b(es).jpg",
+        "iso": "Legendary.png"
+    },
+    "Mystery": {
+        "front": "Mystery_f.jpg",
+        "back": "Mystery_b(g).jpg",
+        "iso": "Mystery.png"
+    },
+    "Mythic": {
+        "front": "Mythic_f.jpg",
+        "back": "Mythic_b.jpg",
+        "iso": "Mythic.png"
+    },
+    "Risky": {
+        "front": "Risky_f.jpg",
+        "back": "Risky_b(fr).jpg",
+        "iso": "Risky.png"
+    },
+    "Secret": {
+        "front": "Secret_f.jpg",
+        "back": "Secret_b.jpg",
+        "iso": "Secret.png"
+    },
+    "StarWars": {
+        "front": "StarWars_f.jpg",
+        "back": "StarWars_b.jpg",
+        "iso": "StarWars.png"
+    },
+    "SuperNatural": {
+        "front": "Supernatural_f.jpg",
+        "back": "Supernatural_b(fr).jpg",
+        "iso": "SuperNatural.png"
+    },
+    "Timeless": {
+        "front": "Timeless_f.jpg",
+        "back": "Timeles_b(fr).jpg",
+        "iso": "Timeless.png"
+    },
+    "Unlock15": {
+        "front": "NewGame_f.jpg",
+        "back": "",
+        "iso": "NewGame.png"
+    }
+}
